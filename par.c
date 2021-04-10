@@ -10,5 +10,7 @@ int main (void)
   if (n % 2 == 0)
     printf("par\n");
 
+  printf("Hasta la próxima\n");
+
   return 0;
 }
