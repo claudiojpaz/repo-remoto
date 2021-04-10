@@ -7,5 +7,8 @@ int main (void)
   printf("Ingrese un número: ");
   scanf("%d", &n);
 
+  if (n % 2 == 0)
+    printf("par\n");
+
   return 0;
 }
