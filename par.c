@@ -8,7 +8,7 @@ int main (void)
   scanf("%d", &n);
 
   if (n % 2 == 0)
-    printf("par\n");
+    printf("el número es par\n");
 
   return 0;
 }
